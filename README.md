@@ -23,6 +23,19 @@ This repository is designed as a portfolio-grade, client-demo-ready project.
 - Demo data burst generator for presentations
 - Branded UI with customizable logo styles and analyst identity
 
+## Dashboard Preview
+### Hero + Threat Theater
+![Dashboard Hero](images/Dash_1.png)
+
+### Filters + Trend + Coverage
+![Dashboard Analytics](images/Dash_2.png)
+
+### Incident Explorer
+![Dashboard Explorer](images/dash_3.png)
+
+### Case Workflow + Exports
+![Dashboard Case and Export](images/Dash_4.png)
+
 ## Tech Stack
 - Python 3.12+
 - Streamlit
@@ -34,32 +47,36 @@ This repository is designed as a portfolio-grade, client-demo-ready project.
 ## Project Structure
 ```text
 phishing-detection/
-├─ dashboard/
-│  └─ app.py
-├─ detector/
-│  ├─ phishing_logic.py
-│  └─ pipeline.py
-├─ emails/
-│  ├─ sample.eml
-│  └─ liji_inbox/
-├─ intel/
-│  ├─ virustotal.py
-│  └─ abuseipdb.py
-├─ mitre/
-│  └─ mapping.py
-├─ parsing/
-│  ├─ email_parser.py
-│  ├─ header_checks.py
-│  ├─ url_extractor.py
-│  └─ attachment_analysis.py
-├─ reports/
-│  ├─ incident_writer.py
-│  ├─ incident_db.py
-│  ├─ exporter.py
-│  └─ incidents.db
-├─ scoring/
-│  └─ risk_engine.py
-└─ main.py
+|-- dashboard/
+|   `-- app.py
+|-- detector/
+|   |-- phishing_logic.py
+|   `-- pipeline.py
+|-- emails/
+|   |-- sample.eml
+|   `-- liji_inbox/
+|-- images/
+|   |-- Dash_1.png
+|   |-- Dash_2.png
+|   |-- dash_3.png
+|   `-- Dash_4.png
+|-- intel/
+|   |-- virustotal.py
+|   `-- abuseipdb.py
+|-- mitre/
+|   `-- mapping.py
+|-- parsing/
+|   |-- email_parser.py
+|   |-- header_checks.py
+|   |-- url_extractor.py
+|   `-- attachment_analysis.py
+|-- reports/
+|   |-- incident_writer.py
+|   |-- incident_db.py
+|   `-- exporter.py
+|-- scoring/
+|   `-- risk_engine.py
+`-- main.py
 ```
 
 ## Installation
@@ -127,4 +144,4 @@ Without valid keys/network, the app degrades gracefully and continues analysis w
 - Docker packaging for one-command deployment
 
 ## License
-MIT (recommended). Add a `LICENSE` file if you plan to open-source publicly.
+MIT
