@@ -1,0 +1,29 @@
+From: "Doc Share" <share@docs-relay-secure.pro>
+To: liji@liiji.local
+Subject: you have 1 encrypted message
+Date: Fri, 13 Feb 2026 05:42:47 +0000
+Message-ID: <phish-a4@docs-relay-secure.pro>
+Received-SPF: fail (sender SPF unauthorized)
+Authentication-Results: mx.liiji.local; dkim=fail
+Return-Path: <bounce@notify-route-temporary.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bndr-a4"
+
+--bndr-a4
+Content-Type: text/plain; charset="utf-8"
+
+liji,
+secure document pending. gibber stream: x9x9 m2m2 b4b4.
+open it fast:
+https://docsafe-viewer.mail-auth-sync.site/open/1420
+
+--bndr-a4
+Content-Type: application/vnd.ms-excel.sheet.macroEnabled.12; name="salary_adjustment.xlsm"
+Content-Disposition: attachment; filename="salary_adjustment.xlsm"
+Content-Transfer-Encoding: base64
+
+UEsDBBQAAAAIAAAAIQAAAAAAAAAAAAAAAAAHAAAAdGVzdC50eHTLz00tLk5MT1VIzs8rSc0rAQBQ
+SwECFAAUAAAACAAAACEAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAAAAAAAAAdGVzdC50eHRQSwUG
+AAAAAAEAAQA1AAAAJQAAAAAA
+
+--bndr-a4--

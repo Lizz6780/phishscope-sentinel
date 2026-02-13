@@ -1,0 +1,17 @@
+From: "Bank Alert Robot" <notice@banking-defend-alerts.co>
+To: liji@liiji.local
+Subject: trx suspended ref ZX9-11
+Date: Fri, 13 Feb 2026 05:39:05 +0000
+Message-ID: <phish-a2@banking-defend-alerts.co>
+Received-SPF: fail (sender SPF unauthorized)
+Authentication-Results: mx.liiji.local; dkim=fail
+Return-Path: <return@mailer-fake-gw.net>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+liji user,
+transaction freeze due to mismatch zzz1 zzz2.
+open secure checker now:
+https://customer-banking-verify.safe-review-login.net/unblock
+
+this link expires in 12 minutes.

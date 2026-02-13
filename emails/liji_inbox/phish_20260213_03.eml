@@ -1,0 +1,27 @@
+From: "Vendor Billing" <invoice-bot@vendor-billing-gateway.org>
+To: liji@liiji.local
+Subject: invoice mismatch 8831
+Date: Fri, 13 Feb 2026 05:40:11 +0000
+Message-ID: <phish-a3@vendor-billing-gateway.org>
+Received-SPF: fail (sender SPF unauthorized)
+Authentication-Results: mx.liiji.local; dkim=fail
+Return-Path: <noreply@outbound-fake-lane.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bndr-a3"
+
+--bndr-a3
+Content-Type: text/plain; charset="utf-8"
+
+payment issue detected for account liji.
+review attached statement and sign in:
+https://secure-vendor-auth.docs-review-center.click/auth
+
+--bndr-a3
+Content-Type: application/octet-stream; name="invoice_copy.pdf.exe"
+Content-Disposition: attachment; filename="invoice_copy.pdf.exe"
+Content-Transfer-Encoding: base64
+
+TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+--bndr-a3--

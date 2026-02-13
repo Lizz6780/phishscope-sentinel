@@ -1,0 +1,17 @@
+From: "IT Service" <security-notice@corp-it-authz.com>
+To: liji@liiji.local
+Subject: abnormal sign-in attempt g7h2
+Date: Fri, 13 Feb 2026 05:38:00 +0000
+Message-ID: <phish-a1@corp-it-authz.com>
+Received-SPF: fail (sender SPF unauthorized)
+Authentication-Results: mx.liiji.local; dkim=fail
+Return-Path: <bounce@alerts-external.net>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+dear liji,
+we detect weird login qqqx-12.
+validate account immediately:
+https://verify-mailbox-check.portal-reset.info/session
+
+ignore this and your mailbox can be locked.

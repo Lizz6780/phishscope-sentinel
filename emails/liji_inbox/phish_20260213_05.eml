@@ -1,0 +1,16 @@
+From: "Cloud Sync Team" <noreply@cloud-upgrade-check.help>
+To: liji@liiji.local
+Subject: mailbox quota warning 98%
+Date: Fri, 13 Feb 2026 05:44:02 +0000
+Message-ID: <phish-a5@cloud-upgrade-check.help>
+Received-SPF: fail (sender SPF unauthorized)
+Authentication-Results: mx.liiji.local; dkim=fail
+Return-Path: <mailer@redirect-auth-temporary.net>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+mail storage almost full for liji.
+keep receiving mails by re-auth now:
+https://webmail-storage-extend.account-link-token.biz/login
+
+code stream q1q1-q2q2-zx88 included.
